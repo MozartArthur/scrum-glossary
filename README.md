@@ -21,4 +21,4 @@
 - [viktoriashandybina](https://github.com/viktoriashandybina)
 - [Plyaskina](https://github.com/Akwatore)
 - [Marina Krivcun](https://github.com/Meao)
-- [Marina Krivcun](https://github.com/MozartArthur)
+- [MozartArthur](https://github.com/MozartArthur)
